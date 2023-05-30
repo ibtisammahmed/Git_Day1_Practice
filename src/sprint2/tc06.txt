@@ -1,0 +1,4 @@
+Ali add new file
+Ali add tc to smoke suite
+
+Ali has done tc06
